@@ -1,0 +1,5 @@
+{
+  "name": "MedPrep",
+  "description": "A comprehensive study tracking application for Bangladesh Inter Science students preparing for medical admissions, featuring subject-wise chapter checklists, progress visualization, and local data persistence.",
+  "requestFramePermissions": []
+}
